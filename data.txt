@@ -1,0 +1,1 @@
+{"Nama": "Muhammad Fiqri", "Umur": "19", "Hobi": "Gaming and Coding", "Job Title": "Front End Web Dev & Game Dev Freelance"}
